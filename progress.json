@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T12:14:12.614Z",
+  "generated_at": "2026-10-12T19:39:55.612Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -349,6 +349,19 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-10-12T12:14:11.914Z",
       "last_pushed_at": "2026-10-12T12:14:11.914Z"
+    },
+    "problem:100": {
+      "kind": "problem",
+      "id": "100",
+      "title": "Implement the Softsign Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/100",
+      "path": "problems/0100-implement-the-softsign-activation-function",
+      "first_solved_at": "2026-10-12T19:39:55.007Z",
+      "last_pushed_at": "2026-10-12T19:39:55.007Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
